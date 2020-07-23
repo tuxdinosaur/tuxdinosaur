@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🦊 Error 404. Nuvo not found.
 
 <!--
 **tuxdinosaur/tuxdinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
