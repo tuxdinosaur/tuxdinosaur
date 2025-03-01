@@ -1,4 +1,4 @@
-### 🦊 Error 404. Nuvo not found.
+### 🦊 Error 404. Zeltzin not found.
 
 <!--
 **tuxdinosaur/tuxdinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
